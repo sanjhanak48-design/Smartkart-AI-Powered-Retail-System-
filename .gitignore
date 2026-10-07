@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+venv/
+__pycache__/
+
+# IDE
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# Database
+*.db
+
+# Logs
+*.log
+# Node / Frontend
+node_modules/
+dist/
+build/
+.vite/
+
+# Large datasets
+datasets/instacart/raw/
+datasets/processed/purchase_history.csv
+
+# Reference projects
+references/
+
+# Temporary frontend extraction
+SmartKart-Frontend-Temp/
+
+# Firebase credentials
+*-firebase-adminsdk-*.json
+serviceAccount*.json
+
+datasets/instacart/*.zip

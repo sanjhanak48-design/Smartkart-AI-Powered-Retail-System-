@@ -1,0 +1,18 @@
+smartkart_product_id,smartkart_product_name,instacart_product_id,instacart_product_name,match_method,match_confidence
+1,Milk,16611,Milk,exact_name,1.0
+2,Bread,20479,Bread,exact_name,1.0
+3,Cheese,1246,Cheese,exact_name,1.0
+4,Corn Flakes,46541,Corn Flakes,exact_name,1.0
+5,Apple,48227,Apple,exact_name,1.0
+6,Banana,24852,Banana,exact_name,1.0
+7,Yogurt,35073,Yogurt,exact_name,1.0
+8,Butter,5460,Butter,exact_name,1.0
+9,Eggs,5038,Eggs,exact_name,1.0
+10,Chicken,43063,Chicken,exact_name,1.0
+11,Tomato,25162,Tomato,exact_name,1.0
+12,Onion,47016,Onion,exact_name,1.0
+13,Orange,23540,Orange,exact_name,1.0
+14,Strawberries,16797,Strawberries,exact_name,1.0
+15,Cereal,20955,Cereal,exact_name,1.0
+16,Peanut Butter,7761,Peanut Butter,exact_name,1.0
+17,Cookies,25114,Cookies,exact_name,1.0
