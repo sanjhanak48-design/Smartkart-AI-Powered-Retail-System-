@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289755777978",
+    "project_id": "smartkart-3553a",
+    "storage_bucket": "smartkart-3553a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289755777978:android:f82a3f9674678840b7ab83",
+        "android_client_info": {
+          "package_name": "com.smartkart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKm-hFst8hOyGvjpBZsjs4RGErBxeGes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
